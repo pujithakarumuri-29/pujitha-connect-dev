@@ -79,7 +79,7 @@
   }
 
   body {
-    @apply bg-background text-foreground font-['Inter'];
+    @apply bg-background text-foreground font-inter;
     scroll-behavior: smooth;
   }
 
@@ -99,6 +99,14 @@
   }
   
   .gradient-card {
+    background: var(--gradient-card);
+  }
+
+  /* Aliases for gradient utilities used as bg-* classes */
+  .bg-gradient-subtle {
+    background: var(--gradient-subtle);
+  }
+  .bg-gradient-card {
     background: var(--gradient-card);
   }
   
@@ -174,7 +182,7 @@
   }
   
   .card-skill {
-    @apply bg-gradient-card backdrop-blur-sm border border-card-border rounded-lg p-4 hover-lift transition-smooth;
+    @apply gradient-card backdrop-blur-sm border border-card-border rounded-lg p-4 hover-lift transition-smooth;
   }
   
   .card-project {
