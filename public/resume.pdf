@@ -1,0 +1,18 @@
+# Resume Placeholder
+
+This is a placeholder for K. Pujitha's resume. 
+
+To complete the portfolio setup:
+1. Replace this file with the actual PDF resume
+2. Ensure the filename remains "resume.pdf" 
+3. The download button in the Hero section will automatically work
+
+The resume should include:
+- Contact information
+- Professional summary
+- Skills and technologies
+- Projects and achievements
+- Education background
+- Certifications
+
+File path: public/resume.pdf
