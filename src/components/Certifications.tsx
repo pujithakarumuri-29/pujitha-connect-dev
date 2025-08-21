@@ -8,7 +8,7 @@ const certificates = [
     title: 'Comprehensive Workshop on HTML and CSS',
     issuer: 'BITM (Ballari Institute of Technology and Management)',
     date: 'November 2024',
-    image: '/lovable-uploads/d2ea0499-f4e3-4bb7-9973-2eb4e98ef840.png',
+    image: '/certificates/html-css-certificate.png',
     description: 'Gained hands-on experience in responsive web design and styling techniques.',
     category: 'Web Development'
   },
@@ -17,7 +17,7 @@ const certificates = [
     title: 'Data Structures and Algorithms',
     issuer: 'Infosys Springboard',
     date: 'March 2024',
-    image: '/lovable-uploads/21068915-d5be-47b2-9ab0-c5cccd98738c.png',
+    image: '/certificates/dsa-certificate.png',
     description: 'Comprehensive course completion in fundamental algorithms and data structures.',
     category: 'Programming'
   },
@@ -26,7 +26,7 @@ const certificates = [
     title: 'Getting Started with Enterprise-grade AI',
     issuer: 'IBM',
     date: 'July 2024',
-    image: '/lovable-uploads/70ac753c-d8fc-4f0b-90a5-1ee12eac9b4b.png',
+    image: '/certificates/ibm-certificate.png',
     description: 'Professional excellence in enterprise-level artificial intelligence applications.',
     category: 'Artificial Intelligence'
   },
