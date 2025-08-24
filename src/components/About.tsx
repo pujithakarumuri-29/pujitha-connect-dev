@@ -41,15 +41,11 @@ const About = () => {
             <h3 className="text-2xl font-semibold text-foreground mb-6">
               Aspiring Software Engineer with a Passion for Innovation
             </h3>
-            <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-              I'm an aspiring software engineer with hands-on experience in backend development and 
-              data structures & algorithms (DSA). My expertise lies in Python, C, and SQL, with 
-              foundational knowledge of REST APIs and database management.
-            </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              What drives me is the opportunity to build AI-driven solutions that solve real-world 
-              challenges. I believe in the power of continuous learning and am constantly exploring 
-              new technologies to expand my skill set and create meaningful impact through code.
+              Aspiring software engineer with hands-on experience in backend development and 
+              data structures & algorithms (DSA). Skilled in Python, C, and SQL, with foundational 
+              knowledge of REST APIs and database management. Passionate about building AI-driven 
+              solutions to solve real-world challenges.
             </p>
             
             {/* Stats */}

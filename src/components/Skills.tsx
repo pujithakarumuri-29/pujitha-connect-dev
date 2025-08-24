@@ -4,7 +4,7 @@ import { Code, Globe, Database, Settings, FileCode, Terminal } from 'lucide-reac
 const Skills = () => {
   const skillCategories = [
     {
-      title: 'Programming Languages',
+      title: 'Programming',
       icon: Code,
       skills: ['Python', 'C', 'SQL', 'DSA']
     },
@@ -14,12 +14,12 @@ const Skills = () => {
       skills: ['HTML', 'CSS', 'Streamlit']
     },
     {
-      title: 'Tools & Platforms',
+      title: 'Tools',
       icon: Settings,
       skills: ['VS Code', 'Jupyter Notebook', 'GitHub']
     },
     {
-      title: 'Environment',
+      title: 'Environments',
       icon: Terminal,
       skills: ['Windows']
     }
