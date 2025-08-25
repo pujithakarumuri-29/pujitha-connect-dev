@@ -35,7 +35,7 @@ const certificates = [
     title: 'Python Programming',
     issuer: 'EZTS',
     date: 'May 2024',
-    image: null,
+    image: '/certificates/python-certificate.png',
     description: 'Comprehensive Python programming certification covering core concepts and applications.',
     category: 'Programming'
   }
